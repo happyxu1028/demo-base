@@ -1,0 +1,2 @@
+ipFilter=com.lagou.filter.DubboTransportIPFilter
+methodMonitor=com.lagou.filter.AnimalBehaviorMonitorFilter
